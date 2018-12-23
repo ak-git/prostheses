@@ -4,9 +4,6 @@ email: ak.mail.ru@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This work is dedicated neuromuscular interface, which is based on electrical impedance 
   and surface electromyogram registered together. 
-  Active part of impedance is registered non-invasively using tetrapolar electrode system 
-  from a segment of the upper limb. 
-  Impedance signals are proportional to the movement’s extent. 
   In contrast to other techniques, this approach allows anthropomorphic bioelectric prosthesis control.
 
 # social links
