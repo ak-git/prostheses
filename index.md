@@ -8,7 +8,7 @@ Muscle contraction leads to proportional changing in electric impedance componen
 alt="grasp-rotation" width="240" height="180" border="10" /></a>
 
 ## 03-May-2016
-[OTWorld 2016](www.ot-world.com) 
+[OTWorld 2016](http://www.ot-world.com) 
 International Trade Show and World Congress
 3 - 6 May 2016 Leipzig, Germany
 
