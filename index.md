@@ -22,3 +22,6 @@ International Trade Show and World Congress
 ### Lecture Research/Practical
 Proportional neuromuscular interface for anthropomorphic bioelectric prosthesis control
 [View presentation](http://events.techcast.com/orth-reha/2016/en/di-1100-02-en/?q=di-1100-02-en)
+
+## 17-Oct-2017
+The signals of the active resistance are sensitive to other movements performed by the hand, for example, bending at the elbow and leading to a false determination of the rotation. Therefore, a three-axis accelerometer needs to include into the control system to completely block the prosthesis actuators in the case of the forearm activity appearance, not related to natural rotation or grasp.
